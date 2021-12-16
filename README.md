@@ -1,2 +1,5 @@
 # Heron-kubernetes-setup
-On Minikube
+On Minikube cluster
+
+#clone the repo and run the command
+./setup.sh
